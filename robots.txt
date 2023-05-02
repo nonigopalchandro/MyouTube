@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /api/
+
+Sitemap: http://music.howtrick.com/seo/custom_search.xml
+Sitemap: http://music.howtrick.com/seo/watch.xml
+Sitemap: http://music.howtrick.com/seo/channel.xml
